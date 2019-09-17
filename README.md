@@ -1,2 +1,2 @@
 # Algoritmos IFPR
-Resolução dos problemas de Algoritmos e Linguagem de programação
+Resolução dos problemas feitos nas aulas de Algoritmos
